@@ -113,3 +113,16 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+.box-left{
+    width:120px;
+    border-radius: 25px inset #000;
+    background: #000;
+    color:#111;
+}
+
+.circle{
+    margin: 10px 5px 0;
+    border-radius: 8.8em inset white;    
+    width:8.8em;    
+}

@@ -1,0 +1,279 @@
+.container-box {
+  width: 100%;
+  height: 100%;
+  background-color: black; }
+
+h1.fancy1 span {
+  font: 26px Monaco, Monospace;
+  font-size: 38px;
+  color: #d57e2c;
+  height: 200px;
+  position: absolute;
+  display: block;
+  width: 20px;
+  left: 500px;
+  top: 500px;
+  transform-origin: bottom center; }
+  h1.fancy1 span .char1 {
+    transform: rotate(6deg); }
+  h1.fancy1 span .char2 {
+    transform: rotate(12deg); }
+  h1.fancy1 span .char3 {
+    transform: rotate(18deg); }
+  h1.fancy1 span .char4 {
+    transform: rotate(24deg); }
+  h1.fancy1 span .char5 {
+    transform: rotate(30deg); }
+  h1.fancy1 span .char6 {
+    transform: rotate(36deg); }
+  h1.fancy1 span .char7 {
+    transform: rotate(42deg); }
+  h1.fancy1 span .char8 {
+    transform: rotate(48deg); }
+  h1.fancy1 span .char9 {
+    transform: rotate(54deg); }
+  h1.fancy1 span .char10 {
+    transform: rotate(60deg); }
+  h1.fancy1 span .char11 {
+    transform: rotate(66deg); }
+  h1.fancy1 span .char12 {
+    transform: rotate(72deg); }
+  h1.fancy1 span .char13 {
+    transform: rotate(78deg); }
+  h1.fancy1 span .char14 {
+    transform: rotate(84deg); }
+  h1.fancy1 span .char15 {
+    transform: rotate(90deg); }
+  h1.fancy1 span .char16 {
+    transform: rotate(96deg); }
+  h1.fancy1 span .char17 {
+    transform: rotate(102deg); }
+  h1.fancy1 span .char18 {
+    transform: rotate(108deg); }
+  h1.fancy1 span .char19 {
+    transform: rotate(114deg); }
+  h1.fancy1 span .char20 {
+    transform: rotate(120deg); }
+  h1.fancy1 span .char21 {
+    transform: rotate(126deg); }
+  h1.fancy1 span .char22 {
+    transform: rotate(132deg); }
+  h1.fancy1 span .char23 {
+    transform: rotate(138deg); }
+  h1.fancy1 span .char24 {
+    transform: rotate(144deg); }
+  h1.fancy1 span .char25 {
+    transform: rotate(150deg); }
+  h1.fancy1 span .char26 {
+    transform: rotate(156deg); }
+  h1.fancy1 span .char27 {
+    transform: rotate(162deg); }
+  h1.fancy1 span .char28 {
+    transform: rotate(168deg); }
+  h1.fancy1 span .char29 {
+    transform: rotate(174deg); }
+  h1.fancy1 span .char30 {
+    transform: rotate(180deg); }
+  h1.fancy1 span .char31 {
+    transform: rotate(186deg); }
+  h1.fancy1 span .char32 {
+    transform: rotate(192deg); }
+  h1.fancy1 span .char33 {
+    transform: rotate(198deg); }
+  h1.fancy1 span .char34 {
+    transform: rotate(204deg); }
+  h1.fancy1 span .char35 {
+    transform: rotate(210deg); }
+  h1.fancy1 span .char36 {
+    transform: rotate(216deg); }
+  h1.fancy1 span .char37 {
+    transform: rotate(222deg); }
+  h1.fancy1 span .char38 {
+    transform: rotate(228deg); }
+  h1.fancy1 span .char39 {
+    transform: rotate(234deg); }
+  h1.fancy1 span .char40 {
+    transform: rotate(240deg); }
+  h1.fancy1 span .char41 {
+    transform: rotate(246deg); }
+  h1.fancy1 span .char42 {
+    transform: rotate(252deg); }
+  h1.fancy1 span .char43 {
+    transform: rotate(258deg); }
+  h1.fancy1 span .char44 {
+    transform: rotate(264deg); }
+  h1.fancy1 span .char45 {
+    transform: rotate(270deg); }
+  h1.fancy1 span .char46 {
+    transform: rotate(276deg); }
+  h1.fancy1 span .char47 {
+    transform: rotate(282deg); }
+  h1.fancy1 span .char48 {
+    transform: rotate(288deg); }
+  h1.fancy1 span .char49 {
+    transform: rotate(294deg); }
+  h1.fancy1 span .char50 {
+    transform: rotate(300deg); }
+  h1.fancy1 span .char51 {
+    transform: rotate(306deg); }
+  h1.fancy1 span .char52 {
+    transform: rotate(312deg); }
+  h1.fancy1 span .char53 {
+    transform: rotate(318deg); }
+  h1.fancy1 span .char54 {
+    transform: rotate(324deg); }
+  h1.fancy1 span .char55 {
+    transform: rotate(330deg); }
+  h1.fancy1 span .char56 {
+    transform: rotate(336deg); }
+  h1.fancy1 span .char57 {
+    transform: rotate(342deg); }
+  h1.fancy1 span .char58 {
+    transform: rotate(348deg); }
+  h1.fancy1 span .char59 {
+    transform: rotate(354deg); }
+  h1.fancy1 span .char60 {
+    transform: rotate(360deg); }
+  h1.fancy1 span .char61 {
+    transform: rotate(366deg); }
+  h1.fancy1 span .char62 {
+    transform: rotate(372deg); }
+  h1.fancy1 span .char63 {
+    transform: rotate(378deg); }
+  h1.fancy1 span .char64 {
+    transform: rotate(384deg); }
+  h1.fancy1 span .char65 {
+    transform: rotate(390deg); }
+  h1.fancy1 span .char66 {
+    transform: rotate(396deg); }
+  h1.fancy1 span .char67 {
+    transform: rotate(402deg); }
+  h1.fancy1 span .char68 {
+    transform: rotate(408deg); }
+  h1.fancy1 span .char69 {
+    transform: rotate(414deg); }
+  h1.fancy1 span .char70 {
+    transform: rotate(420deg); }
+  h1.fancy1 span .char71 {
+    transform: rotate(426deg); }
+  h1.fancy1 span .char72 {
+    transform: rotate(432deg); }
+  h1.fancy1 span .char73 {
+    transform: rotate(438deg); }
+  h1.fancy1 span .char74 {
+    transform: rotate(444deg); }
+  h1.fancy1 span .char75 {
+    transform: rotate(450deg); }
+  h1.fancy1 span .char76 {
+    transform: rotate(456deg); }
+  h1.fancy1 span .char77 {
+    transform: rotate(462deg); }
+  h1.fancy1 span .char78 {
+    transform: rotate(468deg); }
+  h1.fancy1 span .char79 {
+    transform: rotate(474deg); }
+  h1.fancy1 span .char80 {
+    transform: rotate(480deg); }
+  h1.fancy1 span .char81 {
+    transform: rotate(486deg); }
+  h1.fancy1 span .char82 {
+    transform: rotate(492deg); }
+  h1.fancy1 span .char83 {
+    transform: rotate(498deg); }
+  h1.fancy1 span .char84 {
+    transform: rotate(504deg); }
+  h1.fancy1 span .char85 {
+    transform: rotate(510deg); }
+  h1.fancy1 span .char86 {
+    transform: rotate(516deg); }
+  h1.fancy1 span .char87 {
+    transform: rotate(522deg); }
+  h1.fancy1 span .char88 {
+    transform: rotate(528deg); }
+  h1.fancy1 span .char89 {
+    transform: rotate(534deg); }
+  h1.fancy1 span .char90 {
+    transform: rotate(540deg); }
+  h1.fancy1 span .char91 {
+    transform: rotate(546deg); }
+  h1.fancy1 span .char92 {
+    transform: rotate(552deg); }
+  h1.fancy1 span .char93 {
+    transform: rotate(558deg); }
+  h1.fancy1 span .char94 {
+    transform: rotate(564deg); }
+  h1.fancy1 span .char95 {
+    transform: rotate(570deg); }
+  h1.fancy1 span .char96 {
+    transform: rotate(576deg); }
+  h1.fancy1 span .char97 {
+    transform: rotate(582deg); }
+  h1.fancy1 span .char98 {
+    transform: rotate(588deg); }
+  h1.fancy1 span .char99 {
+    transform: rotate(594deg); }
+  h1.fancy1 span .char100 {
+    transform: rotate(600deg); }
+
+.box-right {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid white;
+  margin: 10px 5px 0;
+  background-color: black;
+  color: white;
+  float: right; }
+
+.box-middle {
+  width: 245px;
+  padding: 10px;
+  margin: 0px 4px 0px;
+  background-color: black;
+  color: white;
+  float: none; }
+
+.box-bottom {
+  width: 245px;
+  padding: 10px;
+  margin: 0px 4px 0px;
+  background-color: black;
+  color: white;
+  float: none; }
+
+.circle {
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin: 30px 21px 30px;
+  border-radius: 198px;
+  border: 4px solid white;
+  font-size: 20px;
+  color: white;
+  line-height: 100px;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 0px 1px 0 black;
+  background: black;
+  float: left; }
+
+table.courseTable {
+  font-family: verdana, arial, sans-serif;
+  font-size: 11px;
+  color: white;
+  margin: 0px 5px 0px;
+  width: 90%;
+  border-width: 1px;
+  border-color: white;
+  border-collapse: collapse; }
+  table.courseTable th {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: white;
+    background-color: #005; }
+  table.courseTable td {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: white;
+    background-color: black; }

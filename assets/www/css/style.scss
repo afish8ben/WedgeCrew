@@ -1,0 +1,112 @@
+@import '/Users/benjamin/Development/bourbon/_bourbon.scss';
+
+$maxWidth: 100%;
+$maxHeight: 100%;
+$backColor: #000;
+
+.container-box{
+	width: $maxWidth;
+	height: $maxHeight;
+	background-color: $backColor;
+}
+
+h1.fancy1 span{
+	// font-family: 'Norican', cursive;
+	font: 26px Monaco, Monospace;
+	font-size: 38px;
+	color:#d57e2c;
+	height: 200px;
+	position: absolute;
+	display:block;
+	width:20px;
+	left: 500px;
+	top: 500px;
+	transform-origin: bottom center;
+	@for $i from 1 through 100 {
+	.char#{$i} { 
+  	transform: rotate(($i*6)+deg);
+  }
+}
+	// .char1 { transform: rotate(6deg); }
+	// .char2 { transform: rotate(12deg); }
+	// .char3 { transform: rotate(18deg); }
+	// .char4 { transform: rotate(24deg); }
+	// .char5 { transform: rotate(30deg); }
+	// .char6 { transform: rotate(36deg); }
+	// .char7 { transform: rotate(42deg); }
+	// .char8 { transform: rotate(48deg); }
+}
+
+.box-right{
+	width:100px;
+	padding:10px;
+	border:5px solid white;
+	margin: 10px 5px 0;
+	background-color: $backColor;
+	color: white;
+	float:right;
+}
+
+.box-middle{
+	width: 245px;
+	padding: 10px;
+	// border: 5px solid white;
+	margin: 0px 4px 0px;
+	background-color: $backColor;
+	color: white;
+	float: none;
+}
+
+.box-bottom{
+	width: 245px;
+	padding: 10px;
+	// border: 5px solid white;
+	margin: 0px 4px 0px;
+	background-color: $backColor;
+	color: white;
+	float:none;
+}
+
+.circle{
+	display: block;
+	width: 300px;
+	height: 300px;
+	margin: 30px 21px 30px;
+	border-radius: 198px;
+	border: 4px solid white;
+	font-size: 20px;
+	color: white;
+	line-height: 100px;
+	text-align: center;
+	text-decoration: none;
+	text-shadow: 0px 1px 0 $backColor;
+	background: $backColor;
+	float:left;
+}
+
+table.courseTable{
+	font-family: verdana, arial, sans-serif;
+	font-size: 11px;
+	color: white;
+	margin: 0px 5px 0px;
+	width: 90%;
+	border-width: 1px;
+	border-color: white;
+	border-collapse: collapse;
+	th{
+		border-width: 1px;
+		padding: 8px;
+		border-style: solid;
+		border-color: white;
+		background-color: #005;
+	}
+
+	td{
+		border-width: 1px;
+		padding: 8px;
+		border-style: solid;
+		border-color: white;
+		background-color: $backColor;
+	}
+}
+
