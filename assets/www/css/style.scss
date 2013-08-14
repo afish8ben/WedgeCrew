@@ -4,6 +4,10 @@ $maxWidth: 100%;
 $maxHeight: 100%;
 $backColor: #000;
 
+html.body{
+	height: 100%;
+}
+
 .container-box{
 	width: $maxWidth;
 	height: $maxHeight;

@@ -37,6 +37,21 @@
                 <p class="event received">Device is Ready</p>
             </div>
         </div>
+        <!-- LOGIN PAGE -->
+        <div data-role="page" id="login" data-theme="a">
+            <div data-role="header">
+                <h2>LOGIN</h2>
+            </div>
+            <div data-role="content">
+                <input placeholder="user name" id="username"></input>
+                <input placeholder="Password" id="password"></input>
+                <button data-theme="a" type="submit" onClick="login()">Login</button>
+            </div>
+            <div data-role="footer">
+                <h3>FOOT</h3>
+            </div>
+        </div>
+        <!-- END LOGIN PAGE -->
         <!--MAIN PAGE-->
         <div data-role="page" id="main" data-theme="a">
             <header data-role="header" data-position="fixed">
@@ -120,7 +135,7 @@
                 <h4>Foot</h4>
             </div>
             <!--END MAIN PAGE-->
-
+        </div>
         <!--PANEL LEFT PAGE-->
         <div data-role="page" id="leftOne">
             <div data-role="header">
@@ -128,7 +143,7 @@
             </div>
             <div data-role="content">
                 <p>LEFT PANEL</p>
-                <a href="#main" data-role="button" data-theme="a">Back to Main PAGE</a>
+                <a href="#main" data-role="button" data-direction="reverse" data-theme="a">Back to Main PAGE</a>
             </div>
         </div>
         <!--END PANEL LEFT PAGE-->

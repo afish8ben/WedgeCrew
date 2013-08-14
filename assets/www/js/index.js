@@ -47,3 +47,20 @@ var app = {
         console.log('Received Event: ' + id);
     }
 };
+
+
+function login()
+{
+    var user = $("#username").val();
+    var password = $("#password").val();
+
+    if(user === 'admin'){
+        if(password === 'admin'){
+            $.mobile.navigate('#main');    
+        }else{
+            alert("Wrong password try 'admin' ;) ");
+        }
+    }else{
+        alert("Wrong Username try 'admin' ;) ");
+    }
+}
